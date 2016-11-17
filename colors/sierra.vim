@@ -138,7 +138,7 @@ if !exists("g:sierra_Stargaze")
 endif
 
 "================================================================================
-" SIERRA HIGHLIGHTING: 
+" SIERRA HIGHLIGHTING:
 "================================================================================
 
 " File Navigation:
@@ -182,7 +182,7 @@ hi ErrorMsg          ctermfg=131      guifg=#af5f5f      ctermbg=NONE     guibg=
 hi SpecialKey        ctermfg=110      guifg=#87afd7      ctermbg=NONE     guibg=NONE         cterm=NONE     gui=NONE
 
 " Number Column:
-hi Folded           ctermfg=187        guifg=#dfdfaf     ctermbg=66       guibg=#5f8787      cterm=NONE     gui=NONE
+hi Folded           ctermfg=241        guifg=#dfdfaf     ctermbg=None     guibg=#5f8787      cterm=NONE     gui=NONE
 
 " WindowTab Delimiters:
 hi TabLineSel       ctermfg=235        guifg=#262626     ctermbg=144      guibg=#afaf87      cterm=NONE     gui=NONE
